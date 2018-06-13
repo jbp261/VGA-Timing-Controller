@@ -1,6 +1,6 @@
 # VGA Timing Controller
 
-### Author
+### Project Member
 - Jay Patel
 
 ### Abstract 
@@ -25,7 +25,7 @@ The goal of this project is to implement a circuit that generates a video signal
 - vga_example.xdc (top level design constraint file)
 - vga_timing.v (timing controller, sub-module used by vga_example)
 
-### Example
+### Results
 The achived VGA output screen with given specification is shown below. 
 ![Frame000](https://raw.githubusercontent.com/jbp261/VGA-Timing-Controller/master/frame000.png "Frame000")
 
